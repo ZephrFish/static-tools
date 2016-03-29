@@ -1,5 +1,6 @@
 # Static-Tools 
 ## Version: 0.1 
+## Architectures: x86_64
 Creator: @ZephrFish 
 
 Description
