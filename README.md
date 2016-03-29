@@ -4,7 +4,7 @@ Creator: @ZephrFish
 
 Description
 ===========
-A repository with several static compiled binaries for pentesting, particularly useful for those pentests where you need tools but don't have root.
+A repository with several static compiled binaries for pentesting, particularly useful for those pentests where you need tools but don't have root. Compiled to run on 64-Bit systems. Tested on Red Hat, Kali Linux, Ubuntu, Debian, Arch 
 
 Contents
 ========
