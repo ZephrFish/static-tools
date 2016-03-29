@@ -10,7 +10,9 @@ Contents
 ========
  1. nmap 7.11 + scripts
  2. nping
- 3. strings
+ 3. ncat
+ 4. netcat
+ 5. strings
 
 Work-In-Progress
 =================
