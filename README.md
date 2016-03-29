@@ -10,7 +10,9 @@ Contents
 ========
  1. nmap 7.11 + scripts
  2. nping
- 3. strings
+ 3. ncat
+ 4. netcat
+ 5. strings
 
 Work-In-Progress
 =================
@@ -20,6 +22,8 @@ More tools to be added in future
  2. Python3
  3. smbclient
  4. nbtscan
+ 5. git
+ 6. scp
  More Suggestions Welcome!
 
 
