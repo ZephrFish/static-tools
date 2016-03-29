@@ -22,6 +22,8 @@ More tools to be added in future
  2. Python3
  3. smbclient
  4. nbtscan
+ 5. git
+ 6. scp
  More Suggestions Welcome!
 
 
