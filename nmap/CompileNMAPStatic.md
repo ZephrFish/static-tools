@@ -1,5 +1,5 @@
 # Static Compilation of Nmap 
-Let's say that we want to compile nmap statically, so we can run it from a pwned server.
+Here is a short explanation on how to compile nmap statically. 
 
 Version of nmap used: https://nmap.org/dist/nmap-7.11.tar.bz2
 
