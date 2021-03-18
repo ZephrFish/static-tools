@@ -15,19 +15,9 @@ Contents
  4. netcat
  5. strings
 
-Work-In-Progress
-=================
-More tools to be added in future
 
- 1. Tor
- 2. Python3
- 3. smbclient
- 4. nbtscan
- 5. git
- 6. scp
- More Suggestions Welcome!
 
-##Plans
+## Plans
 Have repositories for seperate architecture, and different operating systems.
 x86_64 is already available
 next steps would be for ARM, 32bit purely
